@@ -1,5 +1,5 @@
 {
-  "name": "Web to APK Converter",
-  "description": "An application that takes a website URL, app name, and a logo to generate a downloadable APK file. This tool wraps your website in a WebView, creating a native Android app experience.",
+  "name": "Web to App Previewer",
+  "description": "An application that takes a website URL, app name, and a logo to generate a live, interactive preview of how the website would look and feel as a mobile app. This tool simulates your website in a full-screen WebView, creating a native Android app experience for visualization purposes.",
   "requestFramePermissions": []
 }
